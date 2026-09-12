@@ -1,0 +1,34 @@
+# Dataset and generated artifacts
+dataset/
+data/
+artifacts/
+models/
+*.zip
+*.npy
+*.faiss
+*.jsonl
+
+# Model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
