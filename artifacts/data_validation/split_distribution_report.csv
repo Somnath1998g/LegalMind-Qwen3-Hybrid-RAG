@@ -1,0 +1,6 @@
+partition,pairs,unique_cases,median_judgment_words,p95_judgment_words,median_summary_words,mean_compression_ratio,over_4k_approx_pct
+train,6303,6303,3128.0,11271.9,641.0,0.235,62.208
+validation,700,700,3296.0,11396.85,664.0,0.232,66.286
+test_in_abs,100,100,3180.0,13920.1,596.5,0.221,62.0
+test_in_ext_expert,100,50,4760.0,10693.0,1438.5,0.308,100.0
+test_uk_abs,99,99,8882.0,33737.7,1072.0,0.129,98.99

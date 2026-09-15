@@ -1,0 +1,46 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "adapter_directory": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/adapter",
+  "training_profile": "24gb",
+  "max_sequence_tokens": 4096,
+  "smoke_test": false,
+  "train_examples": 15333,
+  "validation_examples": 1730,
+  "checkpoint_validation_examples": 500,
+  "trainable_parameters": 43646976,
+  "trainable_percentage": 0.9166646773770022,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "lora_target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "effective_batch_size": 8,
+  "environment": {
+    "python": "3.12.3",
+    "torch": "2.5.1+cu121",
+    "transformers": "5.6.2",
+    "peft": "0.20.0",
+    "accelerate": "1.14.0",
+    "bitsandbytes": "0.50.2",
+    "datasets": "5.0.1",
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "gpu_memory_gib": 79.19,
+    "compute_dtype": "torch.bfloat16"
+  },
+  "checkpoint_evaluation_metrics": {
+    "checkpoint_validation_loss": 1.0806745290756226
+  },
+  "full_validation_metrics": {
+    "full_validation_loss": 1.063507080078125,
+    "full_validation_perplexity": 2.8965114948513677
+  },
+  "best_checkpoint": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/checkpoints/checkpoint-3750",
+  "best_metric": 1.0806745290756226
+}

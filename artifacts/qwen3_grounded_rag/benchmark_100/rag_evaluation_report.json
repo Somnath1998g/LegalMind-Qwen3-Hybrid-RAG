@@ -1,0 +1,58 @@
+{
+  "benchmark_size": 100,
+  "partition_quotas": {
+    "test_in_abs": 34,
+    "test_in_ext_expert": 33,
+    "test_uk_abs": 33
+  },
+  "model": "Qwen/Qwen3-8B",
+  "adapter": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/adapter",
+  "dense_model": "sentence-transformers/all-mpnet-base-v2",
+  "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "corpus_documents": 170228,
+  "retrieval_configuration": {
+    "dense_candidates": 100,
+    "bm25_candidates": 100,
+    "rrf_candidates": 50,
+    "rerank_top_n": 40,
+    "evidence_top_k": 6,
+    "rrf_k": 60
+  },
+  "generation_configuration": {
+    "context_tokens": 4096,
+    "max_prompt_tokens": 3400,
+    "max_new_tokens": 420,
+    "decoding": "greedy",
+    "thinking_disabled": true
+  },
+  "retrieval_metrics": {
+    "recall_at_1": 0.83,
+    "recall_at_3": 0.95,
+    "recall_at_5": 0.96,
+    "recall_at_10": 0.97,
+    "mrr_at_10": 0.8891666666666665,
+    "ndcg_at_10": 0.9096525152732454
+  },
+  "rag_llm_metrics": {
+    "rouge1_f1": 0.3454951408887512,
+    "rouge2_f1": 0.1900409794403634,
+    "rougeL_f1": 0.20848306327349098,
+    "bertscore_f1": 0.8267203569412231,
+    "answer_relevance": 0.7443521204590797,
+    "citation_precision": 0.155,
+    "citation_coverage": 0.025055555555555557,
+    "grounding_support_proxy": 0.08666666666666666,
+    "hallucination_proxy": 0.9133333333333334,
+    "end_to_end_success": 0.08,
+    "tokens_per_second": 18.650184167574864,
+    "retrieval_latency_seconds": 2.0269146802835167,
+    "generation_latency_seconds": 20.8475059213629
+  },
+  "limitations": [
+    "Questions are synthetic and generated from held-out human summaries.",
+    "ROUGE and BERTScore measure reference similarity, not complete legal correctness.",
+    "Semantic grounding is a proxy and requires human legal verification.",
+    "The same corpus contains the target held-out judgments because this is a search benchmark."
+  ],
+  "report_sha256": "368d026dc8699d36352030c0134953d9105876232e54d8087bae7678bd50214b"
+}

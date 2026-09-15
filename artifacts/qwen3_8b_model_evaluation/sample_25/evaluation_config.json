@@ -1,0 +1,40 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "adapter": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/adapter",
+  "partitions": [
+    "test_in_abs",
+    "test_in_ext_expert",
+    "test_uk_abs"
+  ],
+  "case_limit_per_partition": 25,
+  "run_baseline": true,
+  "random_seed": 42,
+  "max_new_tokens": 768,
+  "decoding": "greedy",
+  "repetition_penalty": 1.05,
+  "bertscore_model": "roberta-large",
+  "bertscore_segment_words": 250,
+  "bootstrap_samples": 2000,
+  "environment": {
+    "python": "3.12.3",
+    "torch": "2.5.1+cu121",
+    "transformers": "5.6.2",
+    "peft": "0.20.0",
+    "bitsandbytes": "0.50.2",
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "free_gpu_gib": 78.68,
+    "total_gpu_gib": 79.19,
+    "compute_dtype": "torch.bfloat16"
+  },
+  "training_lineage": {
+    "model": "Qwen/Qwen3-8B",
+    "adapter": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/adapter",
+    "full_validation_loss": 1.063507080078125,
+    "best_checkpoint": "/data2/user_data/sg57092c/LLM_finetune/models/qwen3_8b_legal_qlora/checkpoints/checkpoint-3750",
+    "max_sequence_tokens": 4096,
+    "training_examples": 15333,
+    "validation_examples": 1730,
+    "semantic_match_rate": 0.9598534889972733
+  },
+  "configuration_sha256": "3248f2634e95624ffc329cfae197ad781e3460991a78dbedd2a16b8751c5e457"
+}

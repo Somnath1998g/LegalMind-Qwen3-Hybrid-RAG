@@ -1,0 +1,31 @@
+{
+  "dense_model": "sentence-transformers/all-mpnet-base-v2",
+  "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "corpus_chunks": 170228,
+  "corpus_judgments": 7252,
+  "retrieval_chunk_tokens": 320,
+  "retrieval_chunk_overlap": 48,
+  "dense_candidates": 100,
+  "bm25_candidates": 100,
+  "rrf_k": 60,
+  "rerank_top_n": 30,
+  "final_top_k": 10,
+  "benchmark_queries": 75,
+  "case_limit_per_partition": 25,
+  "best_strategy": "bm25",
+  "best_recall_at_5": 1.0,
+  "best_mrr_at_10": 0.98,
+  "index_config": {
+    "dense_model": "sentence-transformers/all-mpnet-base-v2",
+    "chunk_tokens": 320,
+    "chunk_overlap": 48,
+    "manifest_sha256": {
+      "train": "2e7d032ca4917f44c3532cb0f5190421084d4e9bbe9adfe79d737ff70c06b47e",
+      "validation": "7d8f8f67d9cb41b11fd5fbd64d402077c51a50241d1e3c14e8b33dc2c9f0ebd9",
+      "test_in_abs": "6fb223bd3f62bb9f614393e63ffe12364a786480aa7837f66ca1b38b751bcb02",
+      "test_in_ext_expert": "5ada0d7895305a9967a4501e410a188e5928b0592d8f2bcbb7146b39f956ed3f",
+      "test_uk_abs": "9718fc63a42b49ab5c5ee22041db94c612e29f1cb8ad7897f701dfd638da5022"
+    },
+    "corpus_sha256": "3cbe694ede281dd8ca6fdb2bff6a8dbe080de4ff45ddeebdaedf7c6c91f9411a"
+  }
+}

@@ -1,0 +1,224 @@
+pair_id,judgment_hash,chunk_index,target_tokens,target_preview,reason
+IN-Abs:108:reference,b2d63c2bcb749960b579e314cf2b340aca3d7e9e20ac751867d384d41a81ec23,12,17,"When a. 33), A.K. 63) referred to.",target_too_short_in_tokens
+IN-Abs:1085:reference,4b20c63a2719c0bffe165123bb98ee6a1b85ed9ef999e5b499ff7d6fd1519c0e,2,12,Indian Iron and Steel Co. N. and Railway Co.,target_too_short_in_tokens
+IN-Abs:1112:reference,1f9b5fe10e73c8702f7830e1b6c31b38920a57f88fb5772796b923e8100fb22d,1,7,"Per Subba Rao, J.",target_too_short_in_tokens
+IN-Abs:1112:reference,1f9b5fe10e73c8702f7830e1b6c31b38920a57f88fb5772796b923e8100fb22d,4,16,The High Court found the appellants guilty and convicted them for contempt of Court.,target_too_short_in_tokens
+IN-Abs:113:reference,c16195c8d2fb6d57993a0dba4f3346248b8b6420686e9f956d2cb35e835f469e,0,21,Ramachandra Rao vs Ramachandra Rao [1922] 49 I.A.,target_too_few_words
+IN-Abs:1145:reference,672096b6c7583f53d7f94044ca2ea0267a2633e7b09ac85a3b8b85cc945fbd2a,3,19,This agreement was registered and was made enforceable as an award (1) L.L.R.,target_too_short_in_tokens
+IN-Abs:117:reference,22d330976f2321c3601e6052194eceb099651b9431a29d45a738dcfc60c9e178,0,11,75 of 1952) explained.,target_too_short_in_tokens
+IN-Abs:1183:reference,5387ceb5df42e7650495e709e29b7c66b51c17b29c486bfe5962590ae0fe2648,1,7,1954 S.C.,target_too_short_in_tokens
+IN-Abs:1201:reference,febb4eae7f5371f9f33756f75305e86d02bcce678558f9ba0312131de733ef3e,1,6,"26i, distinguished.",target_too_short_in_tokens
+IN-Abs:1207:reference,43f5e6306f3b3d50d2061b16be4e8546f51fd0fd30bcaf7ef3a4f321ac44fff5,1,14,"Narendra Kumar vs The Union of India, ; , referred to.",target_too_short_in_tokens
+IN-Abs:1210:reference,07c480e7b76469f62d7848ab5f299f409c09e683325d23dab02efe7d3ea6914b,0,19,"Nazir Ahmad vs The King Emperor, Lah. Amiruddin Ahmed vs Emperor, Cal.",target_too_short_in_tokens
+IN-Abs:1216:reference,a837d636879c50450296bf027e43576c45e93e7f678439551e7d0d28cd4b7ba4,3,8,Pandit M. section M.,target_too_short_in_tokens
+IN-Abs:1239:reference,b409a1bda014579bd8763a5d3cc6708edc45ba67312f6a7bf1d3e52f38723bc7,1,8,The appellant accepted a sum of Rs.,target_too_short_in_tokens
+IN-Abs:1266:reference,6e19a2b57980f052d367aef280bc81a64ad90e87bfdd58be5c6c4d1550f6c7d9,2,7,(b) of the amended Act.,target_too_short_in_tokens
+IN-Abs:131:reference,543bf4fce612857a2061cacda74c8199733babfad331dd1426fd91fec31ad985,1,18,"Commissioner of Income tax, Bombay vs Ahmedbhai Umarbhai & Co.",target_too_short_in_tokens
+IN-Abs:131:reference,543bf4fce612857a2061cacda74c8199733babfad331dd1426fd91fec31ad985,2,8,"451 ; , referred to.",target_too_short_in_tokens
+IN-Abs:1335:reference,a9816be43f8181ecd3cc62fa2cb419e4c4a54bb09b2cae1ea2407340c50e9dd1,1,19,"Vinayak Gopal v Laxman Kashinath I. R. , approved.",target_too_short_in_tokens
+IN-Abs:1338:reference,e32a5b72de12549badef5956bed7935c58f67b7a2dc9a4a22595739a81718412,3,5,"1, referred to.",target_too_short_in_tokens
+IN-Abs:1363:reference,bb12d2ae10b14da2302c1db581c576177164b7afa7d6d3fbb5196fd783e36e91,12,15,"Duffy 's case, [1949]1 All.",target_too_short_in_tokens
+IN-Abs:1363:reference,bb12d2ae10b14da2302c1db581c576177164b7afa7d6d3fbb5196fd783e36e91,14,10,"33, In re Murugian I.",target_too_short_in_tokens
+IN-Abs:1363:reference,bb12d2ae10b14da2302c1db581c576177164b7afa7d6d3fbb5196fd783e36e91,16,11,"235, Jan Muhammad vs Emperor, I.",target_too_short_in_tokens
+IN-Abs:1373:reference,f6e2d87c53de253c72f98f99210dc6697202a06e9d55ca9a0428f38e795b2d80,10,21,"489, Atma Ram vs State of Punjab, [1959] Supp.",target_too_few_words
+IN-Abs:1396:reference,beb62b25fc44ceb7a1368f0aa8d06e63ec36d5dda52b75ebeaeeb75d4d41ccbd,1,17,The rights were neither enlarged or curtailed by para 3 of the order.,target_too_short_in_tokens
+IN-Abs:1401:reference,2b1cbb2b2f5c12b40a38a3f38d6fe3d97fe81ae2d55186c88bf516c528a4936c,7,18,The impugned Act dealt with matters arising out of the relationship between landlord and tenant.,target_too_short_in_tokens
+IN-Abs:1414:reference,67b5ccf8131f3f5c8ae948b05690331e376ebaa1d7d45f4570a8bfaa7a41e5c8,1,17,They were convicted by the Magistrate and the conviction was confirmed by the High Court.,target_too_short_in_tokens
+IN-Abs:1415:reference,4b78259b4034a4343c1c86be103636efbb7e9aee50de22d7691e2d66ff37b920,1,8,"Held, that the notification No.",target_too_short_in_tokens
+IN-Abs:1416:reference,35e0bbf2f1f0d06cd96271157efe56a9d759cb6977c0874d8e72bb69ea99fcf2,4,14,"The appellants appealed by special leave. Per Daval, J.",target_too_short_in_tokens
+IN-Abs:1429:reference,89ff1baa1dc106f208e9be9bd0660be6377010ef5fb62c9bbd73c30e372bc522,2,7,"Workmen, and Hony.",target_too_short_in_tokens
+IN-Abs:1452:reference,a454e88e6ea5878f3c3143f68f32d592f510712a7af751a7e53a0db27b680886,8,21,"2,20,00,000 of the Bharat Instirance Company Ltd.",target_too_few_words
+IN-Abs:1452:reference,a454e88e6ea5878f3c3143f68f32d592f510712a7af751a7e53a0db27b680886,13,4,"Co., L.",target_too_short_in_tokens
+IN-Abs:1456:reference,8b7dd3b209414b5683523d268c96b26c88b78f2e2d4d5a429eb6a98bf65f3a8e,2,6,"Ltd. , referred to.",target_too_short_in_tokens
+IN-Abs:15:reference,649425d5e97a05535130898d068a5e7547d6308be5b60f584c9aa55e11d949d3,7,12,Jatindra Nath Gupta vs Province of Bihar distinguished.,target_too_short_in_tokens
+IN-Abs:15:reference,649425d5e97a05535130898d068a5e7547d6308be5b60f584c9aa55e11d949d3,8,7,Held by the Full Court.,target_too_short_in_tokens
+IN-Abs:1506:reference,6f2ec3cef0f5b836e40d3259a9c3a1800ff2fdf06b71fdf5cbaad89e87987092,0,13,"Mohinder Singh vs The State, 1, referred to.",target_too_short_in_tokens
+IN-Abs:1529:reference,8726dd25197844eb8fd610d497f6377785c44678093a56c85f6537a6ca3d6dc8,0,20,"488, and Kotamraju Venkatarayudu vs Emperor, , distinguished.",target_too_few_words
+IN-Abs:1623:reference,595852768a775eb416ee6aa54916fb5627fb9c29d89668638d656f4e37601aa8,1,8,"The appeal therefore, must be dismissed.",target_too_short_in_tokens
+IN-Abs:1641:reference,78fd55cf48913f92482057f4b5bfb45ea3deecb062c6a803f1919560e90660f6,2,16,The appellant filed an appeal before the High Court in which he did not succeed.,target_too_short_in_tokens
+IN-Abs:168:reference,cb57121ecaa63eecdcb614f7c11845dc00879991739fd75ac5f39aa3f207a861,1,19,They are not protected by (1) (b) as the goods exported are different goods.,target_too_short_in_tokens
+IN-Abs:1680:reference,0d570b2d47cf2b17cd291da858ce6b539792d8f444d6bf282c1c22610b5e3600,0,14,This agreement was subject to the approval to the Reserve Bank of India.,target_too_short_in_tokens
+IN-Abs:1690:reference,381d6a16f95e6946b2a2008cac246f18a2dfe6f7d40635cbe9d1d1b7e517a933,4,11,Where service is terminated by order of retirement under R.,target_too_short_in_tokens
+IN-Abs:1698:reference,346c9e4b28ed312e7d08009a243f2ec1b496b3105f4287a065c5a3970884c837,4,13,(iii) which precludes the returned candidates from establishing this.,target_too_short_in_tokens
+IN-Abs:1727:reference,a394bfdfe8566652f064e785f90a02c74af2f03fda7e95e0a483a9a001451779,0,16,The appellant was declared elected to the House of the People from a parliamentary constituency.,target_too_short_in_tokens
+IN-Abs:1739:reference,de3ca1af79fbeb8369ce13127e57476de132607fdbd50fe688fa8ffb34180231,1,12,The High Court rejected the plea and dismissed the writ petitions.,target_too_short_in_tokens
+IN-Abs:1741:reference,558d5123d72a8cab6c0f2917cab007e2d01d63cf1fc12e7682c2849f48024c68,2,7,1 having forged the bill portion.,target_too_short_in_tokens
+IN-Abs:1783:reference,57dac8f20e36fe32687582634c1516667adee15de869350e2ff7063510053317,1,17,"It is this award of the tribunal which ha, , been challenged before this Court.",target_too_short_in_tokens
+IN-Abs:1784:reference,08b6dfb0e3c7f768d3a60399e415c9ccff5c202fd31ee840056391c6539955e7,0,15,"Per Das Gupta and Rajagopala Ayyangar, JJ.",target_too_short_in_tokens
+IN-Abs:18:reference,94b4da54c5424750d7c13a186a53048db3ee1a34e21ea7b32dba1845c5e7b0f1,2,10,[On the merits KANlA C.,target_too_short_in_tokens
+IN-Abs:18:reference,94b4da54c5424750d7c13a186a53048db3ee1a34e21ea7b32dba1845c5e7b0f1,8,12,An Industrial Tribunal functioning under the is not a judicial tribunal.,target_too_short_in_tokens
+IN-Abs:1805:reference,e7c2c2e9457b6e4b4dae9048c88ba12657cb7db7195e13075d5b768126be5568,1,4,Case law reviewed.,target_too_short_in_tokens
+IN-Abs:1815:reference,9cdddd65da150abd47a91e956eb0ee67e3cfe05b379127d67353d7869e3e391a,2,11,The plaintiffs in the first suit appealed to this Court.,target_too_short_in_tokens
+IN-Abs:182:reference,9805c1020175bdaef9cb8c3d366ecefc1d7ca90f68be8289376f99a3d0eacd8a,3,7,289) relied on.,target_too_short_in_tokens
+IN-Abs:1822:reference,c188862d4dd6d761b3f22ac35f5203576e908e696ad14ce8c43af6cd8124e8e0,1,8,Central Bank of India vs P.S.,target_too_short_in_tokens
+IN-Abs:1863:reference,925078afd05820701b01b37201a4ef2fc9db4ea8dffab2783caaa145121e9d4b,3,11,The appellants came to this Court by special leave.,target_too_short_in_tokens
+IN-Abs:1892:reference,a6283d718716b1eb8aa40e40458296cc58f1cda91d2da32198b131a1ff47c1f5,5,17,"Ltd. vs The State of Orissa and Ors. ; , referred to.",target_too_short_in_tokens
+IN-Abs:1988:reference,0ad19c2efc5b676abc6ef2f8880de2b34e032be3acd5986efc65e1104af54c61,2,14,"The High Court, on a reference, held against the assessee.",target_too_short_in_tokens
+IN-Abs:20:reference,28f41c34f4cb24b26e87b912081a2495c39a77134e12b0657834a283c735f233,2,14,Meria aforesaid . . in favour of Mst.,target_too_short_in_tokens
+IN-Abs:2015:reference,2f25137e383f778a2f88c693f09e3577ad9a8b5b51af70f634faf9522b52e577,1,16,This was dismissed on the ground that the appeal was incompetent having regard to sq.,target_too_short_in_tokens
+IN-Abs:202:reference,6e50d35cd10015aa0cbbe7e2177fe8d61625f896c29decc4d78be11e740c10ec,0,18,"Such provisions cannot be held to be reasonable: Held, therefore that the provision of cl.",target_too_short_in_tokens
+IN-Abs:202:reference,6e50d35cd10015aa0cbbe7e2177fe8d61625f896c29decc4d78be11e740c10ec,2,3,Under cl.,target_too_short_in_tokens
+IN-Abs:2056:reference,a6e7a548580fde3b1293b54a65ccee95a15f63220fb0eaac8dcb333e8facd14c,1,9,He appealed to this Court by special leave.,target_too_short_in_tokens
+IN-Abs:206:reference,51a39e7d0bba6b62c1af95d019e9ec07ce506cb5be5fb343b78473b3cfd48c13,1,10,Per MAHAJAN and BosE JJ.,target_too_short_in_tokens
+IN-Abs:214:reference,e31cfef1c6362bf0e033bf000eaee9fd30c09027f21c2becc4421a5320d588e2,3,16,"Held, (Per MEHR CHAND MAHAJAN 0.",target_too_short_in_tokens
+IN-Abs:215:reference,3666d48ec170eca8199194e91ee068d535cd3e1e0eb86ce80fcb05404f204bc1,4,11,1) and Norton vs Shelby County ; referred to.,target_too_short_in_tokens
+IN-Abs:218:reference,d590d23d3bfbddd9034149d4d4e17dbfce9936b4cc1766b019d39e7ae33b108a,0,5,75 I.A.,target_too_short_in_tokens
+IN-Abs:219:reference,5313c09334edcc2b508bfe9691517f0fc29183a205be1aa8e190f7593ac1c0f5,1,20,Renula vs Manmatha (72 I.A. 126) referred to.,target_too_few_words
+IN-Abs:2288:reference,9dc79eb5cf2ceb04671b79a52caf567a901e0e3b88ac025de18274b828917d63,1,7,[766 C E].,target_too_short_in_tokens
+IN-Abs:2333:reference,af0f91000db0c62c58262f7fbc1adfe7abe5458932925129c5be824e22fffa63,1,12,"387, Bandu vs Naba, Bom.",target_too_short_in_tokens
+IN-Abs:24:reference,522ebfec395ec89773a2f468f5464068677266aad34482b867f65644e796a3b5,3,17,229 Per FAZL ALI and MUKHERJEA JJ.,target_too_short_in_tokens
+IN-Abs:24:reference,522ebfec395ec89773a2f468f5464068677266aad34482b867f65644e796a3b5,4,9,Judgment of the Bombay High Court affirmed.,target_too_short_in_tokens
+IN-Abs:241:reference,a4fa96699dc914a9df3ba0ca4c7ad87b1d9ff1899ffe61a14f729eac71bb2619,3,9,"584), Matthew 's V.",target_too_short_in_tokens
+IN-Abs:2454:reference,4825e532cc92f7ed887ed53589d843d0763713071ff1e3dd9734ce787f01ddad,1,6,On appeal to this Court.,target_too_short_in_tokens
+IN-Abs:2507:reference,d8575b7825c6f2b6ae11a4f176ddcba80077498f3159deea83960d8cf0fc7b96,0,13,The first appellant filed a suit on a promissory note.,target_too_short_in_tokens
+IN-Abs:2524:reference,c240a65c7a03b3715f8165a465ca71148a1527de09c3ae189197438f82d75f98,1,21,"12, French Motor Car Co. vs Workmen, [1963] Supp.",target_too_few_words
+IN-Abs:2535:reference,db250485985689c92c26f48f8f7dd2ed59c642d52aca1b24963f62e235a7bbae,1,6,76; referred to.,target_too_short_in_tokens
+IN-Abs:2571:reference,3f4c31c0d42616d47d4fefd170a3a552f27571ce248793797c709b3b87978bca,4,10,Its extent was determined by Part C to Sch.,target_too_short_in_tokens
+IN-Abs:26:reference,06e36570e22aecb417fb7a6acc4c16eda8e7fe06cf116d68cc7ee21459ee0012,1,17,313) and Colonial Bank of Australasia vs Willan (L.R.,target_too_short_in_tokens
+IN-Abs:2666:reference,1574eccaaf84c8815d0dcbd677e831ca25a7b9524e0cfdeee99c0df22bd91518,1,17,Therefore it is not a question of irregular exercise of power but a lack of power.,target_too_short_in_tokens
+IN-Abs:2677:reference,2517f2e0dc7be4e34c9a8f1aa6bf9e2f609c175ed5b044f13401f0e1452b0f7b,1,18,"Therefore, the case was no.t a fit one for sending back to the High Court.",target_too_short_in_tokens
+IN-Abs:2732:reference,4331907837f22e80d41db9ef8caa1e975b4efeed615342ab6e100f75766af383,1,10,"The High Court in appeal, reversed the decree.",target_too_short_in_tokens
+IN-Abs:2807:reference,3bdbef640f8e587a8fa8e56674200b2d0cdb4be64632aa7784285fe62cb541e1,1,11,A revision application filed by the appellant was also rejected.,target_too_short_in_tokens
+IN-Abs:2827:reference,e9c3ea5ef3cb81fe4414c4785cd8214890940d239ee58adbd94fc37e20febf48,0,17,The appellant was convicted of the offence under section 302 I.P.C.,target_too_short_in_tokens
+IN-Abs:300:reference,69d5a5108542fda4dddbd530b9e4b74029d282941fa9c0a02eddc058db10b32e,0,7,"263), referred to.",target_too_short_in_tokens
+IN-Abs:3044:reference,0ce4a13d33559009cfe337c69296c93f7bf8962881d4acc3dd5afba11f81998b,5,8,This reservation was provided by G.O.,target_too_short_in_tokens
+IN-Abs:31:reference,da116cef0c9a1171eea38f8aa316a22d7f00d99f963cb06566831d432e88f9ac,0,7,249) referred to.,target_too_short_in_tokens
+IN-Abs:31:reference,da116cef0c9a1171eea38f8aa316a22d7f00d99f963cb06566831d432e88f9ac,2,6,54) referred to.,target_too_short_in_tokens
+IN-Abs:3104:reference,b2626d28375264f993cfe8e651b202d9e275736f1e502cc294045f3114031047,1,23,"67 of 1969 decided on December 7, 1971, referred to.",target_too_few_words
+IN-Abs:3116:reference,e82d29e5d24e8e688034d39cf1ee072bba6278efbd4720ff23be7a12c3468b7c,0,12,218 and 347 I.P.C.,target_too_short_in_tokens
+IN-Abs:3157:reference,6194a9570d446137535964420706f18f130f34bfd3efce47585f230029451fd9,1,12,Sur Iron & Steel Co. Tata Iron & Steel Co.,target_too_short_in_tokens
+IN-Abs:3191:reference,3a17ee78356833970f81c23f4e2fac2d706c28e38efeae1be7186911c576c313,5,19,"On examining the records, held that the petitioner was not co operating with the Director of Inspection.",target_too_short_in_tokens
+IN-Abs:3191:reference,3a17ee78356833970f81c23f4e2fac2d706c28e38efeae1be7186911c576c313,6,10,It may at the most be an irregularity.,target_too_short_in_tokens
+IN-Abs:326:reference,fd82071b0b721f2e413b0a3ba1433c0556f4869c9509982072cadc5c718a56a7,2,11,54 I.A. 46 I.A.,target_too_short_in_tokens
+IN-Abs:3340:reference,7eee80fd5b29720616a5499691d911c0e206ee11a7c677c6154cb3729d9173f2,3,10,Applying the tests evolved and applied in the.,target_too_short_in_tokens
+IN-Abs:3364:reference,2af8c1f0129bfef3c18a3c9032169b665ad59942e4c80499f88c96da14534169,1,16,The prosecution had been unable to repel the effect of this fairly acceptable explanation.,target_too_short_in_tokens
+IN-Abs:342:reference,aca7e616b26dcb44afa950b3d35531195264f14438176d54a2f89904366e7097,3,13,364 of 1954 Adjourned.,target_too_short_in_tokens
+IN-Abs:347:reference,763f74bec1c5b621c7983c115a42a6d5e81377ed2b78a232fcdbbc9ebd74ea8b,1,11,Per BHAGWATI and IMAM JJ.,target_too_short_in_tokens
+IN-Abs:347:reference,763f74bec1c5b621c7983c115a42a6d5e81377ed2b78a232fcdbbc9ebd74ea8b,8,5,Per DAS J.,target_too_short_in_tokens
+IN-Abs:3498:reference,7f21a6a420fb7423d08e3baf6c345626609163858c9cd5d9e0b194d5ad9161ee,8,7,Gopalan vs State of.,target_too_short_in_tokens
+IN-Abs:352:reference,d29e639657e94f01f98826653e31f2555aadadb8d7809bd275459e33f17501bb,1,8,"1091), referred to.",target_too_short_in_tokens
+IN-Abs:354:reference,7a8a02486acb13956fef9cde8f079cc4dbb9bfd09a2f6c323a7769e8a80bf95e,2,11,"613, distinguished and held inapplicable.",target_too_short_in_tokens
+IN-Abs:3569:reference,2fcedb03358de2a3b2bc38d8a60ed0f4820427a188870d7c64b1477e694dc1bb,3,19,The genesis of the disturbance was the alleged assault on the two boys by the Reddy group.,target_too_short_in_tokens
+IN-Abs:360:reference,bfaed298bcabf6b3f622127dac82eb92f61b77d814e2bef0ddc8c775f2e29d25,9,8,There is no tertium quid.,target_too_short_in_tokens
+IN-Abs:3601:reference,4286849d6b98e5a71cd0a488365d61381c7ce52f2d5f6e4ce11373790155c25f,4,18,"Dismissing all the appeals, HELD: (1) The notifications under 8.",target_too_short_in_tokens
+IN-Abs:3627:reference,382975ab76d1021d39111e9a42ee98b16bd215088c8bbad890f8856b40f96248,2,7,(d) The receipt of Rs.,target_too_short_in_tokens
+IN-Abs:3636:reference,fe21db4acf1d8adce77a8b0cae5d99a410e7a3c6b66e5f4f0f5898a275f08c53,1,17,There was never any objection to the Scheme on exclusion related to any of these grounds.,target_too_short_in_tokens
+IN-Abs:3638:reference,cfd6cab22e9cac71499f88571da80ec2e2b9df2cd97b29ccd13f3ce04333ad9e,1,16,"On appeal, the decision was upheld by a Division Bench of the High Court.",target_too_short_in_tokens
+IN-Abs:3679:reference,27893893adea440393de477d36f495196257033be6436241553b64f9534f78da,2,10,[458D P] 3.,target_too_short_in_tokens
+IN-Abs:37:reference,5090e6160a1aff202cd4ec9ff0c90655ef284bc075bfefc7f25540409ef93634,3,11,Held per KANIA. DAS JJ.,target_too_short_in_tokens
+IN-Abs:3716:reference,447648528399f8f1dc62b4a4e4f650d9b3f5c5408010648505dddeffadbe1d4e,1,30,[1964] 1 S.C.R. 1963 S.C. [746 A C] 5.,target_too_few_words
+IN-Abs:375:reference,6964153e99e5acd50788815b3234e2e8d22af1c38145732ec2178af98c161721,2,4,Case law discussed.,target_too_short_in_tokens
+IN-Abs:3799:reference,be5b2d81ff87a9d902bcc97102badb4b104c2eac95ad686522128e1f71b0340f,4,24,Tahsildar 's case [1959] Supp. [661 C D],target_too_few_words
+IN-Abs:382:reference,aedb19d5600a98858d4815ad49cfce3cad9f5d4ab78e4c9f824d7e15a79bd922,0,17,8 Q.B. 1951 Punjab 49) and M.,target_too_short_in_tokens
+IN-Abs:3821:reference,bc38e6f54dd4c18f12da80a256c8fd51f5d9de91b9f81273426bb8d62bd151d6,2,17,"The Trial Court convicted the appellant, and in appeal the High Court confirmed the conviction.",target_too_short_in_tokens
+IN-Abs:3834:reference,2bf9df2fdc7e997e5264e46bfc904c0b18a81688f71d8e8d9d0cc861e46e9622,5,5,Ltd: vs V.,target_too_short_in_tokens
+IN-Abs:3834:reference,2bf9df2fdc7e997e5264e46bfc904c0b18a81688f71d8e8d9d0cc861e46e9622,6,17,"[11OA] R. vs Dakees , Federal Steam Navigation Co.",target_too_short_in_tokens
+IN-Abs:3900:reference,0050c8abdd2c76aff66eaf2b258b232cb1cefdb940b4b57f080b1e1c7c18e73a,2,5,Under the U.P.,target_too_short_in_tokens
+IN-Abs:394:reference,257cdb1646bb43d07760ff3f4c6720138a161a2b47e116edd96bbb29ac58aec8,6,16,"1045), Suraj Mall Mohta & Co. vs A.",target_too_short_in_tokens
+IN-Abs:4075:reference,29c7c5a72f544664f3d97dea4c27e1d448dfe9893818f1b5b358a1f385ba245d,3,18,The State counsel rightly refused to show the records of the case to Respondent 1.,target_too_short_in_tokens
+IN-Abs:4131:reference,995c434d236b6558d0c99d8cdaaf861b0984bf8b64410b98ed89d252fe0cff45,12,15,"None of these steps having been taken, the discharge orders were still born.",target_too_short_in_tokens
+IN-Abs:417:reference,a8660b89fd5e36bbc4599fddad2db14887183dd8f650186b418e48b35deaa844,3,23,"188), referred to. 803), referred to. 241), referred to.",target_too_few_words
+IN-Abs:417:reference,a8660b89fd5e36bbc4599fddad2db14887183dd8f650186b418e48b35deaa844,5,6,Stewart vs B.K.,target_too_short_in_tokens
+IN-Abs:422:reference,315a8023254a2b30159dbc0d8cdd779e130c860515f3c7d9351d306af8362a8f,3,8,The appellant appealed to the Supreme Court.,target_too_short_in_tokens
+IN-Abs:4236:reference,b749dc571ec3c84e77eda5745975bb268fa3ea123b9b525f454c98eec5c9a8e0,3,5,This application was allowed.,target_too_short_in_tokens
+IN-Abs:4252:reference,12990f6d10c60b18c0c6dd65f8b897c3ebd6599af8f202f961f1190ff6099aec,13,6,Dismissing Civil Appeals Nos.,target_too_short_in_tokens
+IN-Abs:4272:reference,1aa61acfff60b673de5f684be1e08dd4327dace4fed26049f80fc66f901b94e2,1,16,In cancellation of the first notification the Government issued another notification under section 6.,target_too_short_in_tokens
+IN-Abs:436:reference,d083a004a1dc8d96008d448d263f7b7e3e8780c228227d05736fb2404ae50c00,3,16,"The Act, however, amply provides for the safeguarding of their interests.",target_too_short_in_tokens
+IN-Abs:4475:reference,fd823ed458f4a6b333e8a4f03416f055c59a982c6ffe2995d5e4b188bba13e7a,1,19,W.P. 941 of 1976 and Review Petition No.,target_too_short_in_tokens
+IN-Abs:4475:reference,fd823ed458f4a6b333e8a4f03416f055c59a982c6ffe2995d5e4b188bba13e7a,3,11,245 and Baradari on plot No.,target_too_short_in_tokens
+IN-Abs:4488:reference,64c18209d4b621259ba1b64e6837688494a8df2a19cfa080fc2476ae7e64d3fc,1,16,[181 H 182A] 2:1.,target_too_short_in_tokens
+IN-Abs:4492:reference,c6848324e9375de95b38ec554525cf573fffbd7d6ba1b459795b9009a09dbb59,7,7,The appellant in Civil Appeal No.,target_too_short_in_tokens
+IN-Abs:4572:reference,457e85bc247cb073c7605b1da7847166f835cda64e19a2c42c4d2c4b06610446,5,14,"At the worst, all that can happen is that Respondent No.",target_too_short_in_tokens
+IN-Abs:46:reference,fe7be60a43b264dbcdd0c7ac2897f51a4ad2cabd3f988cff21e8302ae19f68d0,1,7,Under the Preventive Detention.,target_too_short_in_tokens
+IN-Abs:4628:reference,a5603baba07f4e61e18144a7e88edafad71636eb0518c77442bffaa826095f73,3,16,[306 F G] The plea of self defence cannot be accepted.,target_too_short_in_tokens
+IN-Abs:4827:reference,1ee42fe662bc5229726635d1c3f58cb665d6c680fc1a84ef22f086a4859b9df8,6,18,The alleged oral statement of Manju and what she has stated in her letters Exh.,target_too_short_in_tokens
+IN-Abs:4827:reference,1ee42fe662bc5229726635d1c3f58cb665d6c680fc1a84ef22f086a4859b9df8,19,21,"Appeal No. 713 referred to. AIR 1954 All.
+approved.",target_too_few_words
+IN-Abs:4897:reference,56d735b8ef6eb297eef7488aa58dd40dd8bbb7810d9955bebc58f10f77b442de,4,12,"Allowing the appeal, ^ HELD: 1.",target_too_short_in_tokens
+IN-Abs:4927:reference,301bd8ae8e35052d42cff8ab8ea868fb2d9266f4f031f1cebb6a7d7c25c95880,11,16,It is well settled that Legislature does not act without purpose or in futility.,target_too_short_in_tokens
+IN-Abs:499:reference,11b8bfa51b2008205071492c73f07ee06a86b52a9ca7ad3998b29c42796f573b,1,11,"Das C.J., jafer Imam, section K.",target_too_short_in_tokens
+IN-Abs:500:reference,1f833a5e2ed9dff9d466ad64a4a2038572222c84bad3045f96c990720217891e,2,16,"The Union of India vs Madan Gopal Kabra, ; and D.",target_too_short_in_tokens
+IN-Abs:501:reference,447f96a37aa2191df14be2ce2ebd3dd9e6a0a888aa15d59c0d20296cc9064b3a,1,4,Case law reviewed.,target_too_short_in_tokens
+IN-Abs:506:reference,607c6588939c66007fe906f53954eb7a9e58b3bdf3e4fbfd1dcee6419ef2fba0,0,16,162 Per Jagannadhadas J. 67 I.A.,target_too_short_in_tokens
+IN-Abs:511:reference,0d292ab571bf5e812c64e4859da97c4ed1646f66fc172eb5aff3d00068cf62c7,6,12,The first was on the footing that the amount of Rs.,target_too_short_in_tokens
+IN-Abs:512:reference,0c87be89d5c4d69a44c691ca720b72b9641607f89b16d09df1c61ce22f59c880,2,16,"Murugesa Chetti vs Chinnathambi Goundan, Mad.",target_too_short_in_tokens
+IN-Abs:5210:reference,a41b7e6e3289031185e8ae713ef1f89f2eee6bda9bb24e2831acd72a1d00234e,1,11,There must not be Ordinance Raj in the country.,target_too_short_in_tokens
+IN-Abs:5262:reference,ff11164c1beda6a6affd5edd281267d5bbaaa77e7634a327e9b427922325c08a,1,13,The petitioner was ranked No. The petitioner is one of them.,target_too_short_in_tokens
+IN-Abs:53:reference,7644455a42688367ceb78bbaf5ffd605067f41c30ddc59b666fae223681d8462,3,7,FAZL ALI J.,target_too_short_in_tokens
+IN-Abs:5359:reference,1f5b22f7cf4397d1f8527c4aec8cb0ef5ea7e82571ddaf2d71fa66cecd7716b7,1,17,"[96F] (Per Ray, J. dissenting) 1.",target_too_short_in_tokens
+IN-Abs:5379:reference,e9fe26e1cb2dd0f788443d6bf0802c31440a0df219872b4a38d5b4547589697a,3,15,The qnantum is unascertained at the point of removal.,target_too_short_in_tokens
+IN-Abs:559:reference,3678d716c715ce4e54233c3093842949d96e8da50be5c88dd8bbba7fb787b38a,2,11,The respondent framed rules for the imposition of terminal tax.,target_too_short_in_tokens
+IN-Abs:561:reference,b340ecdaf75e7e3340d0ac430a1f5abf931c91b51ee3ac7a5468e7481365f65c,7,6,"J., and section K.",target_too_short_in_tokens
+IN-Abs:5643:reference,4eb843dbb54efe920f86dc4ef85975ecf17229ab95be3a7efe689be963492110,1,3,In Misc.,target_too_short_in_tokens
+IN-Abs:565:reference,c5905840e38b7f51d748bd50ce35b00b1aa2078dd232ba55ff18782048aefc7d,1,15,"1104, relied on. New Prakask Transport Co.",target_too_short_in_tokens
+IN-Abs:568:reference,b6d59a56d092ee37abb82719809060cf95ea36a7b4bfff4ed19a35da46540e90,2,8,Case law reviewed. Case law reviewed.,target_too_short_in_tokens
+IN-Abs:571:reference,60d7447694881b3c431ff22587382443ee9383140067b5de251bd3a90124d80a,1,9,Heilgers & Co. vs N.,target_too_short_in_tokens
+IN-Abs:572:reference,e3eba00103aca8a96d217ce6251282ff3218f485895b9f8f4d9ff4add9a462a2,2,15,"C. and 1. G.) Queston, , relied on.",target_too_short_in_tokens
+IN-Abs:5807:reference,772d644dacace7cd5479c212670a0a8422568065e4967ba7640159bf6d3a5164,1,13,The appellate authority the Central Government dismissed the appellant 's appeal.,target_too_short_in_tokens
+IN-Abs:5844:reference,8f7b8b9f414dbd274892b68dc18f190b9d0d67d0b62e65b0c4a5a9c72319fdd3,4,14,It also held that the cancellation order violated the principle of natural justice.,target_too_short_in_tokens
+IN-Abs:5883:reference,be32820fc041b1be21c68b026624c276aae15e83013e76da9ad71e2d97148159,2,7,Gupta vs N.K.,target_too_short_in_tokens
+IN-Abs:589:reference,e5d7b4502021979bd9637c7c6fe6e7487f7afd8e2cd4d7341cd08d0a9900e898,0,13,"1931 Patna 15O), approved.",target_too_short_in_tokens
+IN-Abs:601:reference,40206db33607640ec15664c356ae8eb802e6124a41a2544deae2e005f863e910,8,12,"Row, [1952] S.C.R.",target_too_short_in_tokens
+IN-Abs:6113:reference,de968aa80405a2868e977f3b339656197a2afbc161cfb1a2dfe08fdd86cc60e8,7,17,[506G H; 507A B] Mathura.,target_too_short_in_tokens
+IN-Abs:6135:reference,43ca5f67b1f90ce04c491bce90418a95eaf381e25271b51d05f0f04523506364,1,9,State Financial Corporation as security for a loan.,target_too_short_in_tokens
+IN-Abs:6206:reference,e53e310c82503212ae3107b8f082b1a8e20687f56c04a9e5991556f1d23ea8cc,2,11,"Surinder Kumar & Ors., , referred to.",target_too_short_in_tokens
+IN-Abs:6209:reference,8bb43858a682b2b83a1ed9b0fe453b85f6546990eef2fdd633a576cdd63fd89b,1,7,321; V.C.,target_too_short_in_tokens
+IN-Abs:6416:reference,c4ff97ebb553af8e41ed5f8a965dece93a29b6eb899b8114026e23a722c51b60,5,11,The claim 's of the other appellant was rejected.,target_too_short_in_tokens
+IN-Abs:6416:reference,c4ff97ebb553af8e41ed5f8a965dece93a29b6eb899b8114026e23a722c51b60,6,8,Hence the appellants i.e.,target_too_short_in_tokens
+IN-Abs:646:reference,8ee08ff2a59640a4ac9dd29727659180fd8567f940bf18907829ab063d11d706,1,14,Mens rea was not a necessary ingredient of the corrupt practice.,target_too_short_in_tokens
+IN-Abs:6494:reference,9b891a02fdcd0a9bd11d993d5164b07dea479f41ab66eae991527295bbc11c3f,1,19,[381F G] (4). [381E] D.S.,target_too_short_in_tokens
+IN-Abs:6526:reference,f1e78da21a65b3116d3f0f390976989012de825f2a60672ba2ec23bb1b9c242b,8,10,"3 SCR 302, referred to.",target_too_short_in_tokens
+IN-Abs:659:reference,0a7f9d9dec26f782d7c3b74f2c071d46dc3fbb492829c3bea553022d7f6ff7bc,2,15,"133; and Morley vs Tattersall, , distinguished.",target_too_short_in_tokens
+IN-Abs:6593:reference,64a70eab335ae799994efc38030b44e6597d2fc245151c9c2eccbc1184c67e35,4,8,The Central Government never approved of it.,target_too_short_in_tokens
+IN-Abs:6605:reference,8abfbf949e478d5b7cec877a77b83cf40368a13414f9ef6ec6b87b355db4e29d,3,7,1 SCR 1; L.,target_too_short_in_tokens
+IN-Abs:6629:reference,2a189554e318606dda6bc20d5f5cefe00e96939316b9b38908d0774274f6d063,1,14,"Dismissing the Appeal, this Court, HELD: 1.",target_too_short_in_tokens
+IN-Abs:6677:reference,9cdeb250678ead3da940c73d4221d4760c8a57b83dc40b30756de9c6c3bab4a4,4,9,Ltd. vs James Chadwick & Bros.,target_too_short_in_tokens
+IN-Abs:669:reference,82d0319b08ea06d081e945c31dee0d6511aff6a35ab6dd419270958922e9c93a,13,4,Case law considered.,target_too_short_in_tokens
+IN-Abs:67:reference,5266dd65ae08ae601c3ca6019d1e3c306f4f1cf75d30c822de9115999b973393,11,17,(ii) Abdication by a legislative body need not necessarily amount to complete effacement.,target_too_short_in_tokens
+IN-Abs:67:reference,5266dd65ae08ae601c3ca6019d1e3c306f4f1cf75d30c822de9115999b973393,13,13,"For the first, no express provision authorising delegation is required.",target_too_short_in_tokens
+IN-Abs:6707:reference,8b24c6ac47d1c30ae1cd8def591069ccc8fbb67b565c283a1e0d8d46e03794db,15,9,"Linkletter, 14 L Ed.",target_too_short_in_tokens
+IN-Abs:6722:reference,56c83c5b41e01b698447f89f7865d12e3baaaef3369efd0aa6589c475984a9e8,2,16,"1 to 5 in the Service, making the former Senior to the letter.",target_too_short_in_tokens
+IN-Abs:674:reference,df1aed0aaf6fde3ac4c26a9fbacbe56d0228672981c9cb2cf8c3c16b0497f187,0,4,Per Imam J.,target_too_short_in_tokens
+IN-Abs:674:reference,df1aed0aaf6fde3ac4c26a9fbacbe56d0228672981c9cb2cf8c3c16b0497f187,1,9,The question of addition of parties under O.,target_too_short_in_tokens
+IN-Abs:678:reference,053eef88cae6ec4d0ff5d3451b42198ac2c619dffcd8d114e7cc8379ceaed240,0,12,636 explained as having proceeded on concession by counsel.,target_too_short_in_tokens
+IN-Abs:678:reference,053eef88cae6ec4d0ff5d3451b42198ac2c619dffcd8d114e7cc8379ceaed240,6,9,"Wasan vs Walter, , relied on.",target_too_short_in_tokens
+IN-Abs:69:reference,a3f49c9164646496f94ab27c8bb014b0a32af148cc994a6db8ccf021f369d468,0,10,Daulatrao vs Government of Bombay approved.,target_too_short_in_tokens
+IN-Abs:7036:reference,24a6cf00367d7b15f996839eca103577d0cc50ae9dd411e2cf9b3a6f3b5d61db,1,17,"Dismissing the appeal, this Court, HELD : 1.01.",target_too_short_in_tokens
+IN-Abs:726:reference,ab6a4a26f94be1c2c53952d3ec66437647f404fcae7d372cf37d778ae922c76a,1,18,"Held that, the appellant was rightly convicted. 155, dis approved.",target_too_short_in_tokens
+IN-Abs:795:reference,86b6bab2436afa9d8a609b88f6214daa809bd38b13e206c60efc256d306e0078,4,18,Nor is the temporary movement of the idol from place to place inconsistent with its public character.,target_too_short_in_tokens
+IN-Abs:814:reference,0ba42282b622a3cc77378cc5fb2f5506e7eb8ef3a59ac614c705934071f618b3,2,17,The evidence showed that the price paid for the properties under the deed was wholly inadequate.,target_too_short_in_tokens
+IN-Abs:83:reference,1aa946e968312648cb2f26bd967016df312b049d8f807ad4f2e79e3592b93265,1,7,147) relied upon.,target_too_short_in_tokens
+IN-Abs:843:reference,25c198f010229c180ee89909d8e60f1405427bc7945f7e693ca206ef79ed1177,2,7,"149, relied on.",target_too_short_in_tokens
+IN-Abs:843:reference,25c198f010229c180ee89909d8e60f1405427bc7945f7e693ca206ef79ed1177,3,8,"Per Hidayatullah, J.",target_too_short_in_tokens
+IN-Abs:855:reference,257df389d64f5d0575c2c7c579ee2289e7eb520a69ec06afd7b613348839a34c,0,20,"388, The King vs Horry, [1952] N.Z.L.",target_too_few_words
+IN-Abs:855:reference,257df389d64f5d0575c2c7c579ee2289e7eb520a69ec06afd7b613348839a34c,5,9,"461 Per Sarkar, J.",target_too_short_in_tokens
+IN-Abs:855:reference,257df389d64f5d0575c2c7c579ee2289e7eb520a69ec06afd7b613348839a34c,9,21,"111, Mary Ann Nash 's case, (1911) 6 Cr.",target_too_few_words
+IN-Abs:870:reference,86723fda42ccc291141445535884c2fac5e68c5460a33c3d85b6e4c3dd4510bc,3,19,"Ltd. vs Their Workmen, [1960] 2 S.C.R.",target_too_short_in_tokens
+IN-Abs:909:reference,6f56e974359407c82a1aba6ffe0968b8fa8dd8f809adc607a4f3f649e1353996,1,19,"Assam Bengal Cement Works Ltd. vs Commissioner of Income Tax, West Bengal, , distinguished.",target_too_short_in_tokens
+IN-Abs:935:reference,a0ae81bbbd1f907e89880a0276b727597cf282470b84cd65f544d512e5b7035a,4,7,The Tata Iron & Steel Co.,target_too_short_in_tokens
+IN-Abs:949:reference,f2496f3b822b86c874eec1617c2e795c48739e6c8021a94a3ddc85ade8dcb355,4,18,(dissenting) The language of article 161 is of the widest amplitude.,target_too_short_in_tokens
+IN-Abs:969:reference,594bac0a5857a1f9b523f62148601cf8c3b24fb76d47ec1173ce16098bcccac8,2,11,The Full Bench of the High Court held against him.,target_too_short_in_tokens
+IN-Abs:1155:reference,797e5a2fc15befc9b3c74c32e0b3471025870f0610c2ba21f46d5cf4c3a37f21,1,19,"Nesbitt Ltd. vs Mitchell, [1926] II T.C.",target_too_short_in_tokens
+IN-Abs:1162:reference,cdfa054021b3b67e4941e517c603b71cde8b46de8087a5bcd79a20756e3998cf,2,19,"Ltd. and Others, and Commissioners of Inland Revenue vs Sansom, , referred to.",target_too_short_in_tokens
+IN-Abs:1172:reference,04a3dc00a7a752caac5a10325d11088eb9deb06999f9bdfd35f037c93bbb4ed4,1,4,Case law reviewed.,target_too_short_in_tokens
+IN-Abs:1336:reference,c0ae37c2b15b37059e10d37d65e90858ca52358360798f7ba7060ec44a4dcc86,0,12,The appellant sued the respondent for damages for breach of contract.,target_too_short_in_tokens
+IN-Abs:1460:reference,5d5934bc5e2aceed87ce5e8454f1f9c5b91ae6d6d20c8f5f9628930dc435417d,2,11,"352, considered and held inapplicable.",target_too_short_in_tokens
+IN-Abs:1515:reference,d24182f8861ea3d9e9c0ef53a2a550d74f57f4b884b8c96b92d1a545c0a579f7,2,19,The respondents preferred appeals before the Commissioner. The respondents preferred second appeals before the Board of Revenue.,target_too_short_in_tokens
+IN-Abs:2719:reference,7664991d4d47219531aeda48e8923a79cad73b9490f19fb8d9999d298afebab0,3,7,773; referred to.,target_too_short_in_tokens
+IN-Abs:3018:reference,2606a7e21430354aed0e7869c02555a3f322e41d1f1da4452bc520f8824fb803,2,9,10(3) did not arise.,target_too_short_in_tokens
+IN-Abs:3139:reference,a0eff47dd490e0af83cbbc5a5b8752897d95cf5e2d11c17beb5feb613023325f,0,17,"They were actually runni ng in panic on seeing the mob, to save themselves.",target_too_short_in_tokens
+IN-Abs:3243:reference,ed756d0978e4a5aa7793df1ad289096fe48bc082a4ce974c24eeb47b110c2954,2,12,The High Court allowed the petition and set aside the election.,target_too_short_in_tokens
+IN-Abs:34:reference,5d8802794983f378c1aae27886e4fe0487ee9cdbc772c15625c9992a231005f2,17,11,(FAZL ALI J. dissenting).,target_too_short_in_tokens
+IN-Abs:34:reference,5d8802794983f378c1aae27886e4fe0487ee9cdbc772c15625c9992a231005f2,22,6,MAHAJAN J.,target_too_short_in_tokens
+IN-Abs:34:reference,5d8802794983f378c1aae27886e4fe0487ee9cdbc772c15625c9992a231005f2,26,19,MUKHERJEA J. Per KANIA. MUKHERJEA J.,target_too_short_in_tokens
+IN-Abs:34:reference,5d8802794983f378c1aae27886e4fe0487ee9cdbc772c15625c9992a231005f2,38,11,It is not necessary that the Parliament should prescribe both.,target_too_short_in_tokens
+IN-Abs:3934:reference,2563d4f5aeb5b569d46c9235d4c338fb3259bbb316874ddd5140741bf1a289ed,0,3,P.C.,target_too_short_in_tokens
+IN-Abs:421:reference,d0b00e8fbe548b3820f4011f16d70ddf8796f68105738e31db391080c662ab4f,1,14,"Subramanya Pillai ([1950] , approved.",target_too_short_in_tokens
+IN-Abs:4684:reference,15045d861034c64ba79877455697bd232e648a3382c0180541b1ac5c85cf6127,0,6,S.C.R. p.,target_too_short_in_tokens
+IN-Abs:4740:reference,6b57b414726dd2ee8d63aff4a17d4f78c0fa60e279285d449ebcc7e9f9094b47,10,17,"[131 C H, 132 A] 20.",target_too_short_in_tokens
+IN-Abs:553:reference,1fb3abb5969fb8352b5d58ffd3d7de585c9a30b92770cb4149e72640ba393cc7,1,8,Secretary of State for India vs I.,target_too_short_in_tokens
+IN-Abs:5567:reference,edf470d9dec998b32de1aa10d2f0a2c3f97cd1f67514bffcd1c35c417f473f00,3,12,"Dismissing the appeal, ^ HELD: 1.",target_too_short_in_tokens
+IN-Abs:633:reference,e074a5b2ee24b76542af17bafd2073a08981e05640d0b5e8d508ac688d84550b,1,11,The police submitted a charge sheet against the three accused.,target_too_short_in_tokens
+IN-Abs:6394:reference,a3dfc95121c8c31ba8116a80959ff921512c681090efe74dc1da54d137abd169,2,17,These powers are more or less similar to the powers conferred on Customs Officers under the .,target_too_short_in_tokens
+IN-Abs:704:reference,35bc090f284fc5eadd8eda0e1a24ea2c08e010bc3e4b130fa868af7bd98eaa3c,4,10,It is impossible to ignore the provision Of Col.,target_too_short_in_tokens
+IN-Abs:972:reference,76d892c632fd0a2e10173a18ef8d1f0fb04324c2cd6d4346c6a161d4deff3488,1,18,"The Sessions Court, on appeal by the respondent, confirmed the Magistrate 's order.",target_too_short_in_tokens

@@ -1,0 +1,15 @@
+{
+  "zip_path": "/data2/user_data/sg57092c/LLM_finetune/dataset/dataset/legal_dataset.zip",
+  "archive_size_mib": 93.29,
+  "archive_file_count": 16776,
+  "datasets_found": [
+    "IN-Abs",
+    "IN-Ext",
+    "UK-Abs"
+  ],
+  "unique_judgments": 7973,
+  "full_summary_pairs": 8023,
+  "missing_full_summaries": 0,
+  "potential_split_leakage_groups": 9,
+  "context_window_for_estimate": 4096
+}

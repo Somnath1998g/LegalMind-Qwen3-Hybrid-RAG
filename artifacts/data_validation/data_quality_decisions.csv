@@ -1,0 +1,89 @@
+dataset,case_id,judgment_hash,original_split,decision,reason
+UK-Abs,uksc-2009-0127,d330b835742a28d4fa9108eaa00e4ed3f51f39d49c21a5459c1ef5ab9e204ffa,test,removed,exact duplicate inside UK-Abs test
+UK-Abs,uksc-2010-0108,6d834ef33c6c3672ee3820c2f628f51f47fd51bff65a33e1be1b2f1573e0e12e,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2011-0022,049b8cf6bedbc5822a7c52c966157c93f80dd27ce2520c44ce02fa6e9e17ec6d,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2011-0091,06485f7050ee52096d18ee5930a6bb1802815adae5cadc96483ed8321096b867,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2011-0259,63a0a4b699a6048a474ef51b506ec697ae42c57bf63e9b2694255ca3d2f2faa5,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2011-0261,63a0a4b699a6048a474ef51b506ec697ae42c57bf63e9b2694255ca3d2f2faa5,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2012-0017,0ada8c2554db1807e5507a79095239149c23944886a018d9a61c648b728c340c,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2012-0020,ed071cf78298bd37c242cbd8c8c4531af8432c57f6da78cece969135e5905436,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2012-0248,b2ab1cb838c3f368af7838586310b7ef33c4d9fc2f7ff7718b21146ea8e16f94,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2012-0259,c903dad3ca6ef5c2a5e61ca70b969b894990df0053800d4b2d1cc3395b100943,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2013-0024,d4164fa6c7ca96fb7c586f71d46044013a12ecb71868690824ba07936ccd22e4,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2013-0025,d4164fa6c7ca96fb7c586f71d46044013a12ecb71868690824ba07936ccd22e4,train,removed,judgment hash overlaps a held-out evaluation partition
+UK-Abs,uksc-2011-0178,04747ce2ce52240ae6c0354d2d156f808c239234343746816cd5af886713374e,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0180,04747ce2ce52240ae6c0354d2d156f808c239234343746816cd5af886713374e,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0262,04747ce2ce52240ae6c0354d2d156f808c239234343746816cd5af886713374e,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1178,057e119b029fbcc5213bec8b0ab8171f07c6efeac4154d0d764a15e1552c31e3,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1047,086fb8999a2cd25240b73910ce82c7be7b30bb1e0783f9a242b482b17669a94e,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1019,0f691e7396fef85d1c432213bd2105f0da10e6357c6a08ae2a5485dda68a26ff,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2009-0057,1dd2ed0dd9d6cd70bc136135d3bdf95dc0c379c4f60b9a5471f0c99c50cc7ce3,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1011,1f364f17576e2a5e8b8e5049731fb2661ecd3f5bc3e709194a6f2f5882d15c08,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1037,32bddae383d30a9179a87935106e7977ab5c72cc409be752105bf44e7dddbea7,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0257,35230af486ac1b2ce308cf1c9ea0c389ea6b9c462a388c07015509581fe0e96e,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0160,3ad90ea5471b631cc8f3df5253c58243adcbb7f65a602639a83556fad6db520e,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1040,3b9db923a303c35605919ecf2902b2066c02c31d1c35fb97d32c65988bc464b4,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0088,3dae9086e860197276ca61c2116ec4f618b69d9017bc4145de1f37b4312cfb02,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2013-0094,3f4b6c02c7252f8fa6cabba0425b9b7f25841a7e4c66c6504cea252b64612afd,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1024,41e2122f201978602347b813d7466de74744b3f3d9844911ed09cbfce3fa6412,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0207,42db5aacfbd0a5cd98e2adfa4ade60aaf259ce380a8fdc2b2d80a23e9c7ea02c,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0208,42db5aacfbd0a5cd98e2adfa4ade60aaf259ce380a8fdc2b2d80a23e9c7ea02c,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0152,43bdcd3ebd7f52ee3b1c6439ef6470467fe42467692c60988a88de4858548bd3,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1020,52dbbd463604ebabf3f8540fbfdea5fbb7125da09f5b859123076da309f3c2ee,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0063,564287d91f46b3a0d98f39be6782eabb3836d60a3f9a39093cf53655e3ce137b,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0090,5b277d96b048d1b58cbd4c0e042929b6a2963240c7b7ae7c892ab2e75c23d811,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1121,611935e91780b7c3de2e1ccb0a79a272c258971a6c1454473a02c16a09afdfa3,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0186,63a8eef21664b7e168b18a0c68003e99e7c3e32b8ac982faee577ae65ad4b786,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1120,668c67d8a1602740414c0b4e3ac9391b8abe28a38187b20cf90aed6f62b33654,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0202,71551e87b125bba87efc6bacb4c8b40073f6d817d476a8a0438e98574e5547b7,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1059,732d62bbe92b1598a36a369011852c465ebc07af29ece47cb3641a662a3902ad,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0045,7862643ed341206ca16c72e5e0e867370b47aeee4cbfa7731afdb0fe7a28f748,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0046,7862643ed341206ca16c72e5e0e867370b47aeee4cbfa7731afdb0fe7a28f748,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1014,79217a77f9f2f35ab9ee11baaedc9a23f751f1970da63cb609a31a7df9ee8c67,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1023,7fa10daefa9c27d047c46f9fa0bedfcb69c3bc76747af9431163d0cb8d0b5319,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0147,8259a3f85bdcb3ca80fa8457905c7d660fcc2a1fdc4b1744e78107a96490ee1e,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1046,84372598f38d10a90d47784590b9267f4d70cbbc955848c6e9cbe246423c00df,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0129,8c0ce4e12a0712a1729fdce267b2fcf1dd4d2e850eb74f0efd96cc89f80b5153,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0039,8c0ce4e12a0712a1729fdce267b2fcf1dd4d2e850eb74f0efd96cc89f80b5153,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0086,8c650caa5a4101bcf1fb2ccfe9e5eff01a54161d4845b41f810b08a72a5da6e7,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0111,8c650caa5a4101bcf1fb2ccfe9e5eff01a54161d4845b41f810b08a72a5da6e7,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2009-0108,8cac13024cb7c1ec01406f0286f14bc99468897f2b4f68e2676d9d24d76d2c80,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0012,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0025,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0026,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0027,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0028,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0029,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0031,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0032,8d095d156f570b26d9e867077c081df3c67f1b10a289cf7d6a8a7d84137d055a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0151,8ff2839716ba862356fdc550d1d7db809af6afb5fba2a18266bc670c05448307,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1433,9c15d85d9fbba691921a90cb86c2cbe1bf32cbd2f4ca801a1e428807791f1c84,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1156,a2783de75d39e3aaad951c2fce0615da87d6b89441a01cd14d2fd56d78f5ffe4,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0003,a73d8542dcfae20c4839a6af27810a87677b08aa7c8712cee646d6e876636102,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0143,a844779dee59a0ab982ee65634945298480293502c70a14c0a3b08a4cde6ebd8,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1053,ab27ef35b171b6ffd388ae845b264f03aab078de83e7d5d597ffbf24fbb97145,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1027,b76e60ae0c1d88d119a8ad916954aabfbb8dfa9167b7614f60c22953cf26f8c3,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1043,b84b5dfc1badb90cc26df1062599979acd0631a3773cfb4b255677a89584fef4,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1122,b88e945102b547677fa3cf0de69c36a0f11354866a894fbca7430b7cc2de22a7,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1056,ba43846c9f7a768f18f32e09d80042c9e419daaa081d8f4236e5a750134bebf1,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1031,bca172e63f5e078528d3ddc71676c5067859d12f1dc04fced12c78467a129f52,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1016,be1fbed3138ab2c31a12645673a323e1e902b86df5c3d86b01267017fe1ba546,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1051,c0dc6d9ab1ee20a0924f9d8bffd8781ee5ce5c160bb9bfe6c602f6cd4cec102b,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0057,c49881d9b88f43bff06a24e7e325e48226634e58389b8e5180d560b87512c6b3,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2009-0232,c721790c8078941659073e7e7c1fa57504237a93461df4cbb59d6c24c6c9faf2,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0142,c9767c40e50bde4e9b840f9f7ec3c4bdb47d71442662a2da996d8bacdb48b2b6,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2013-0040,cbe7e5568ff0f435d6b70e1463e37b84a41366e6115f3289fae068eb074b06f2,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0100,cc5f6815e465dba42328be7546371eb745a6f053f10d977f877dc5f6ff913dd9,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2013-0267,ccef1aa2ec26964617365fefdffbcd500411eb6d3b895af71759424f3718d5a0,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0238,db68d4ed6940fef3b92dc839afc71d39f5c08c8ce028d0266a9787d4a2964da8,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0240,db68d4ed6940fef3b92dc839afc71d39f5c08c8ce028d0266a9787d4a2964da8,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1021,dc46166522474bbd62eafc6ab2e492a2b99dc6c36efd3e5771c1d0c58346cb71,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0182,dc8789c7e0d33914a20e41d132f5be7b8dec51b175182a8e4c72cf442e94eefd,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0227,e0a656c1a648b033e0cefb0924595f2300f7704ce8161e35f0ed24adda48c85b,train,removed,exact duplicate inside candidate training pool
+IN-Abs,996,e424f1d888001efca32008a058a127ff89093eed152de6acb612d258da4ec702,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2012-0152,e765acdac0fb354b67be167ac1d5e3ed1b9b358405f54d9a7ad8295d7fd45f35,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0209,eacb2b5006f0fc934edac736164f618c6f4c070cfc3349444824d15fd63f6b1e,train,removed,exact duplicate inside candidate training pool
+IN-Abs,1038,f333fbd540f14be71c6eff230604215472f5f59c2589a5e6cc62b901884e811b,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0177,f5cadd902a7e57c4af27b7de7c3d1beea6dd67f570745b4dc8cd3fbc5b32da6a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2010-0178,f5cadd902a7e57c4af27b7de7c3d1beea6dd67f570745b4dc8cd3fbc5b32da6a,train,removed,exact duplicate inside candidate training pool
+UK-Abs,uksc-2011-0033,fe9926752ea70c2c01e00c75252404a3976150c3afe0fc430678f6fcf46c0792,train,removed,exact duplicate inside candidate training pool

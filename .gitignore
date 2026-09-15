@@ -1,7 +1,19 @@
 # Dataset and generated artifacts
 dataset/
 data/
-artifacts/
+# Large retrieval artifacts
+artifacts/**/retrieval_corpus.jsonl
+artifacts/**/dense_embeddings.npy
+artifacts/**/dense_index.faiss
+artifacts/**/index/
+
+# Generated answers containing retrieved source text
+artifacts/**/qwen3_qlora_rag_predictions.jsonl
+artifacts/**/predictions/
+
+# Large benchmark files containing full reference text
+artifacts/**/legal_qa_benchmark_100.jsonl
+artifacts/**/legal_qa_benchmark_100_with_ground_truth.jsonl
 models/
 *.zip
 *.npy

@@ -1,0 +1,7 @@
+check,value
+Unique judgments,7973
+Usable full summary pairs,8023
+Judgments missing a full summary,0
+Duplicate judgment rows within dataset,159
+Judgments appearing across splits,9
+Pairs involved in duplicate summaries,180

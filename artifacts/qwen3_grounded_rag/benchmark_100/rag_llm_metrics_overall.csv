@@ -1,0 +1,2 @@
+rouge1_f1,rouge2_f1,rougeL_f1,bertscore_f1,answer_relevance,citation_precision,citation_coverage,grounding_support_proxy,hallucination_proxy,end_to_end_success,tokens_per_second,retrieval_latency_seconds,generation_latency_seconds
+0.3454951408887512,0.1900409794403634,0.20848306327349098,0.8267203569412231,0.7443521204590797,0.155,0.025055555555555557,0.08666666666666666,0.9133333333333334,0.08,18.650184167574864,2.0269146802835167,20.8475059213629

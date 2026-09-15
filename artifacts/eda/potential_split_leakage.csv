@@ -1,0 +1,10 @@
+dataset,judgment_hash,split_count,splits,case_ids
+UK-Abs,049b8cf6bedbc5822a7c52c966157c93f80dd27ce2520c44ce02fa6e9e17ec6d,2,"['test', 'train']","['uksc-2011-0022', 'uksc-2011-0024']"
+UK-Abs,06485f7050ee52096d18ee5930a6bb1802815adae5cadc96483ed8321096b867,2,"['test', 'train']","['uksc-2011-0089', 'uksc-2011-0091']"
+UK-Abs,0ada8c2554db1807e5507a79095239149c23944886a018d9a61c648b728c340c,2,"['test', 'train']","['uksc-2012-0007', 'uksc-2012-0017']"
+UK-Abs,63a0a4b699a6048a474ef51b506ec697ae42c57bf63e9b2694255ca3d2f2faa5,2,"['test', 'train']","['uksc-2011-0259', 'uksc-2011-0260', 'uksc-2011-0261']"
+UK-Abs,6d834ef33c6c3672ee3820c2f628f51f47fd51bff65a33e1be1b2f1573e0e12e,2,"['test', 'train']","['uksc-2010-0106', 'uksc-2010-0108']"
+UK-Abs,b2ab1cb838c3f368af7838586310b7ef33c4d9fc2f7ff7718b21146ea8e16f94,2,"['test', 'train']","['uksc-2012-0247', 'uksc-2012-0248']"
+UK-Abs,c903dad3ca6ef5c2a5e61ca70b969b894990df0053800d4b2d1cc3395b100943,2,"['test', 'train']","['uksc-2012-0249', 'uksc-2012-0259']"
+UK-Abs,d4164fa6c7ca96fb7c586f71d46044013a12ecb71868690824ba07936ccd22e4,2,"['test', 'train']","['uksc-2013-0023', 'uksc-2013-0024', 'uksc-2013-0025']"
+UK-Abs,ed071cf78298bd37c242cbd8c8c4531af8432c57f6da78cece969135e5905436,2,"['test', 'train']","['uksc-2011-0011', 'uksc-2012-0020']"

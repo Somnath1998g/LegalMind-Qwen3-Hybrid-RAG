@@ -1,0 +1,2 @@
+recall_at_1,recall_at_3,recall_at_5,recall_at_10,mrr_at_10,ndcg_at_10
+0.83,0.95,0.96,0.97,0.8891666666666665,0.9096525152732454

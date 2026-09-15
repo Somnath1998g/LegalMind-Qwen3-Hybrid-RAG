@@ -1,0 +1,6 @@
+dataset,split,pairs,median_judgment_words,mean_judgment_words,p95_judgment_words,median_summary_words,mean_summary_words,mean_compression_ratio,over_4k_context
+IN-Abs,test,100,3180.0,4802.99,13920.1,596.5,937.13,0.221,62
+IN-Abs,train,7030,3146.5,4386.955,11332.25,641.5,843.786,0.234,4397
+IN-Ext,expert_eval,100,4760.0,5386.62,10693.0,1438.5,1616.31,0.308,100
+UK-Abs,test,100,9267.0,12881.25,33736.35,1072.5,1103.27,0.128,99
+UK-Abs,train,693,10863.0,14551.67,36291.0,1097.0,1104.664,0.111,688

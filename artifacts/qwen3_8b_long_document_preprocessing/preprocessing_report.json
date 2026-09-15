@@ -1,0 +1,79 @@
+{
+  "source_zip": "/data2/user_data/sg57092c/LLM_finetune/dataset/dataset/legal_dataset.zip",
+  "source_split_directory": "/data2/user_data/sg57092c/LLM_finetune/data/splits",
+  "tokenizer": "Qwen/Qwen3-8B",
+  "model_context_tokens": 32768,
+  "training_profile": "24gb",
+  "train_sequence_tokens": 4096,
+  "prompt_reserve_tokens": 246,
+  "measured_prompt_overhead_tokens": 68,
+  "max_input_tokens": 2800,
+  "max_target_tokens": 1000,
+  "chunk_overlap_tokens": 200,
+  "alignment_model": "sentence-transformers/all-mpnet-base-v2",
+  "alignment_window_tokens": 256,
+  "alignment_window_overlap_tokens": 64,
+  "minimum_semantic_similarity": 0.2,
+  "minimum_semantic_match_rate": 0.7,
+  "minimum_target_tokens": 20,
+  "minimum_target_words": 8,
+  "random_seed": 42,
+  "max_cases_per_partition": null,
+  "train_sft_examples": 15333,
+  "validation_sft_examples": 1730,
+  "train_unique_cases": 6301,
+  "validation_unique_cases": 700,
+  "skipped_pairs": 2,
+  "skipped_pair_rate": 0.000285591889190347,
+  "skipped_pair_reasons": {
+    "empty_summary_after_cleaning": 2
+  },
+  "rejected_chunk_targets": 222,
+  "target_rejection_rate": 0.012843505929997107,
+  "rejected_target_reasons": {
+    "target_too_short_in_tokens": 209,
+    "target_too_few_words": 13
+  },
+  "semantic_matches": 199949,
+  "unmatched_summary_sentences": 8363,
+  "semantic_match_rate": 0.9598534889972733,
+  "training_alignment": {
+    "semantic_matches": 179847,
+    "unmatched_sentences": 7495,
+    "semantic_match_rate": 0.9599929540626234,
+    "rejected_non_meaningful_summary_sentences": 9723,
+    "mean_best_similarity": 0.5956177792311768,
+    "p10_best_similarity": 0.32150480747222904
+  },
+  "validation_alignment": {
+    "semantic_matches": 20102,
+    "unmatched_sentences": 868,
+    "semantic_match_rate": 0.9586075345731998,
+    "rejected_non_meaningful_summary_sentences": 1115,
+    "mean_best_similarity": 0.5939700957329062,
+    "p10_best_similarity": 0.3106300085783005
+  },
+  "truncated_target_examples": 938,
+  "target_truncation_rate": 0.05497274805133916,
+  "quality_gates": {
+    "training_examples_created": true,
+    "validation_examples_created": true,
+    "all_inputs_within_budget": true,
+    "all_targets_within_budget": true,
+    "all_targets_meet_minimum_length": true,
+    "all_examples_within_training_sequence": true,
+    "training_sequence_within_model_context": true,
+    "all_non_skipped_train_pairs_represented": true,
+    "all_non_skipped_validation_pairs_represented": true,
+    "skipped_pair_rate_at_most_1pct": true,
+    "semantic_match_rate_at_least_threshold": true,
+    "target_rejection_rate_within_limit": true,
+    "target_truncation_rate_within_limit": true
+  },
+  "training_encodings": {
+    "utf-8": 12606
+  },
+  "validation_encodings": {
+    "utf-8": 1400
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "training_scope": "india",
+  "random_seed": 42,
+  "validation_fraction": 0.1,
+  "active_train_cases": 6303,
+  "active_validation_cases": 700,
+  "test_in_abs_cases": 100,
+  "test_in_ext_cases": 50,
+  "test_in_ext_reference_pairs": 100,
+  "test_uk_abs_cases": 99,
+  "removed_for_evaluation_leakage": 11,
+  "removed_as_training_duplicates": 76,
+  "exports": {
+    "train_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/train_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/train_manifest.jsonl"
+    ],
+    "validation_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/validation_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/validation_manifest.jsonl"
+    ],
+    "india_train_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/india_train_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/india_train_manifest.jsonl"
+    ],
+    "india_validation_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/india_validation_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/india_validation_manifest.jsonl"
+    ],
+    "uk_train_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/uk_train_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/uk_train_manifest.jsonl"
+    ],
+    "uk_validation_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/uk_validation_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/uk_validation_manifest.jsonl"
+    ],
+    "test_in_abs_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_in_abs_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_in_abs_manifest.jsonl"
+    ],
+    "test_in_ext_expert_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_in_ext_expert_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_in_ext_expert_manifest.jsonl"
+    ],
+    "test_uk_abs_manifest": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_uk_abs_manifest.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/test_uk_abs_manifest.jsonl"
+    ],
+    "train_cases": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/train_cases.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/train_cases.jsonl"
+    ],
+    "validation_cases": [
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/validation_cases.csv",
+      "/data2/user_data/sg57092c/LLM_finetune/data/splits/validation_cases.jsonl"
+    ]
+  }
+}
